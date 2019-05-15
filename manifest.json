@@ -1,0 +1,16 @@
+{
+  "short_name":"Budgific",
+  "name":"Budgific",
+  "start_url":"/",
+  "theme_color":"#E2F4F8",
+  "background_color":"#E2F4F8",
+  "display":"standalone",
+  "orientation":"portrait",
+  "icons":[
+    {
+      "src": "/assets/images/icons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

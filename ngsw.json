@@ -1,0 +1,57 @@
+{
+  "configVersion": 1,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/inline.fc1eebbb04825a736bcc.bundle.js",
+        "/main.ee442da79bd7edf588d4.bundle.js",
+        "/polyfills.76769dabb0f63dc5a8fe.bundle.js",
+        "/styles.9eeedc1dd5dcc3159497.bundle.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/browserconfig.xml",
+        "/assets/images/home.png",
+        "/assets/images/house.png",
+        "/assets/images/safari-pinned-tab.svg",
+        "/assets/images/icons/android-chrome-192x192.png",
+        "/assets/images/icons/android-chrome-512x512.png",
+        "/assets/images/icons/apple-touch-icon.png",
+        "/assets/images/icons/favicon-16x16.png",
+        "/assets/images/icons/favicon-32x32.png",
+        "/assets/images/icons/mstile-150x150.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/inline.fc1eebbb04825a736bcc.bundle.js": "90407cec1246453629b4b588eb86b5b225d97fc4",
+    "/assets/browserconfig.xml": "9efb807b3029436b5a4050b93675d24a0239b5de",
+    "/main.ee442da79bd7edf588d4.bundle.js": "6bbf9ba52364f4ad2e65ce71ccdb507a396684e5",
+    "/assets/images/home.png": "97b9b246346a28d6569718d94d89229880e62e00",
+    "/polyfills.76769dabb0f63dc5a8fe.bundle.js": "5be3a9e6fdc274c171e0f917635ef940276b550c",
+    "/assets/images/house.png": "e5646c1cd5f08a2915ee05a1180fbb4cfc50030c",
+    "/styles.9eeedc1dd5dcc3159497.bundle.css": "7aaf71ab098ed3096df377ab5c29c56a280e4333",
+    "/assets/images/safari-pinned-tab.svg": "8b68f7d503227053e81c6be264d1843b55b72a5f",
+    "/favicon.ico": "d0294a6e9eb3eb9b97f1d56a12bbb9337d6b1965",
+    "/assets/images/icons/android-chrome-192x192.png": "0246edfc7a6d361d36ee5564cb2bac3cfcaa6803",
+    "/index.html": "4e1741eefa362b86faa933476bd1bd3d99bb8815",
+    "/assets/images/icons/android-chrome-512x512.png": "26306e987d63c5fb1531635e8dc1734b15d85729",
+    "/assets/images/icons/apple-touch-icon.png": "5b172ca97d8641057748f995a233cba107d63e5f",
+    "/assets/images/icons/favicon-16x16.png": "166b91fdece75047e95e2ffccff3b8df7d423b25",
+    "/assets/images/icons/favicon-32x32.png": "bc795bf4a6875456a43c3d52bc24dbe04d51f840",
+    "/assets/images/icons/mstile-150x150.png": "ce983f118131bf07a8d5afe5fae3dcf418ba60ff"
+  }
+}
